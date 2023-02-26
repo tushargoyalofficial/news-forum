@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# News Forum (Reddit Clone) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo Video
+[Video Link](https://www.reddit.com/r/reactjs/comments/z5zu12/i_made_a_reddit_clone_with_typescript_react_and/)
 
 ## Available Scripts
 
